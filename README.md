@@ -23,24 +23,5 @@
 
 ## admin后台
 默认用户名erhao
-密码1234
+密码123
 
-	
-## 目录介绍
-./blog
-├──static                            	 // 静态文件相关
-│
-│
-├──templates							// HTML模板
-│
-│
-├──templateags							// 自定义模板标签
-│
-│
-├──forms.py								// form表单
-│
-│
-├──urls.py								// url分发
-│
-│
-├──views.py								// 业务处理
